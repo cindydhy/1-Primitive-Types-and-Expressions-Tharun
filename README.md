@@ -9,6 +9,8 @@
 2. Click on "Create fork"
 3. Once you forked the repo, you now have write access to edit files and folders
 4. Please go through each exercise files in the Exercise folder and write your answers in the answers.txt file
+5. Click on the pencil tool to edit the file
+![image shows how to edit a file](DO-NOT-DELETE-screenshots/edit-file.png)
 5. If you are stuck, please test out the code in visual studio code 
 
 # Extra Resources
