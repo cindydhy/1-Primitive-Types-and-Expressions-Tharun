@@ -1,5 +1,7 @@
 Exercise 1: expressionsNumbers2
 Pay close attention to order of operations and data types
+% means modulo. It returns the remainder
+Ex: 23 % 4 = 3 
 
 1. 
 2.
